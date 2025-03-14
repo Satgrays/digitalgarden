@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/home-page/","tags":["gardenEntry"],"created":"2025-03-13T18:10:47.850-06:00","updated":"2025-03-13T19:08:10.789-06:00"}
+{"dg-publish":true,"permalink":"/digital-garden/home-page/","tags":["gardenEntry"],"created":"2025-03-13T18:10:47.850-06:00","updated":"2025-03-13T19:58:05.280-06:00"}
 ---
 
 # Welcome
@@ -11,8 +11,8 @@ I just realized I needed more CS knowledge. As a Data Scientists, it was not eno
 ## Resources
 What you will find here mainly is a roadmap (based on another roadmaps) on the things you need to know about CS. I want to make it completely free, because knowledge should be for everyone independently of their economic situation.
 
-
-
+## Index
+* [[Digital Garden/Data Sctructures & Algorithms\|Data Sctructures & Algorithms]]
 
 
 
